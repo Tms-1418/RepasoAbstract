@@ -1,0 +1,32 @@
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Build output folders
+/bin/
+/build/
+/target/
+/out/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local configuration / temporary files
+*.tmp
+*.temp
+
+# Java compiler output
+*.lst
